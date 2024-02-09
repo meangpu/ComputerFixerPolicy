@@ -1,0 +1,2 @@
+# ComputerFixerPolicy
+computer fixer PrivacyPolicy
